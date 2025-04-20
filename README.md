@@ -2,15 +2,11 @@
 
 A simple and fun **Tic Tac Toe** game created using **HTML**, **CSS**, and **JavaScript**. Play the classic 3x3 board game with a friend and see who can win the most rounds!
 
----
-
 ## 🛠️ Technologies Used
 
 - **HTML** – Structure of the game board and layout
 - **CSS** – Styling and visual design of the game
 - **JavaScript** – Game logic, turn management, and win/draw detection
-
----
 
 ## 🎮 How to Play
 
@@ -19,8 +15,6 @@ A simple and fun **Tic Tac Toe** game created using **HTML**, **CSS**, and **Jav
 3. Players take turns placing their symbol in an empty square.
 4. The first player to get 3 in a row (horizontally, vertically, or diagonally) wins.
 5. If all 9 squares are filled and no player has 3 in a row, the game ends in a draw.
-
----
 
 ## ✨ Features
 

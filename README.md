@@ -30,3 +30,4 @@ A simple and fun **Tic Tac Toe** game created using **HTML**, **CSS**, and **Jav
 - Option to restart the game after each round
 
 ---
+Developed by **Nayak Dhruvi .J.**
